@@ -1,76 +1,139 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
+title: Tech Roles and Interviewing
+description: Let's talk through tech roles and interviewing for software jobs 
 transition: fade
 paginate: true
 _paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
+# What are the most common apprentice roles?
 
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+* Software Developer
+* Business Analyst
+* Data Scientist
+* Sales
+* Devops
+* Project Manager
+* Customer Support
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![bg](./assets/placements.svg)
+
+---
+# Typical Roles on a Software Team
+
+## Software Developer
+* Writes code to create software applications
+
+### Specialties
+* Frontend
+* Backend
+* Mobile
+* Integrations
+* and more...
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+# Typical Roles on a Software Team
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+## UI/UX Designer
+* Responsible for creating wireframes and prototypes, as well as helping to design the look and feel of your app.
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+## Quality Assurance Engineer and Tester
+* Tests the software applications to ensure that they meet the requirements and are free from bugs
 
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+# Typical Roles on a Software Team
 
-## **[Netlify](https://www.netlify.com/)**
+## Project Manager
+* Oversees the software development project from start to finish
 
-#### Ready to write & host your deck!
+## Product Owner / Business Analyst
+* Defines the product vision and ensures that the software development team is building the right product
 
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+---
+# Adjacent roles you might see
+
+## DevOps
+* Deploys, monitors, and maintains the software applications and infrastructure
+
+## Data Scientist
+* Analyzes and interprets data to gain insights that can be used to inform business decisions
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+# Adjacent roles you might see
 
-## **[Vercel](https://vercel.com/)**
+## Sales
+* Identifies potential customers, builds relationships with them, and sells the software product
 
-#### Ready to write & host your deck!
+## Marketing
+* Promotes the software product and builds brand awareness
 
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+## Support
+* Assists customers with their inquiries, technical issues, and concerns
+
+---
+# Interviewing for Software Developer Jobs
 
 ---
 
-### <!--fit--> :ok_hand:
+# Application Submission 📬
+* Submit your application through the company's application tracking system (ATS).
+* Some application tracking systems will screen out resumes that don't match the job description
+* I built https://cv-boost.com to help tailor your resume for the job you are applying for
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+# Initial Screening 📞
+* Assess your basic qualifications, skills, and fit for the position.
+* You might have a phone interview with a recruiter or hiring manager
+* Use https://shadowing.ai/ to practice
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+---
 
-https://github.com/yhatt/marp-cli-example
+# Technical Interview 🧑‍💻
+* Solve coding exercises, technical challenges, or a small take-home project to assess your knowledge of algorithms, data structures, architecture, and problem-solving.
+* Some may have you pair up with an engineer to solve a coding problem, review a pull request or do a code review to assess how you think and communicate
+* Practice:
+    - https://leetcode.com/
+    - https://exercism.org/
+
+---
+
+# On-Site/Remote Interviews 🎤
+* This stage usually involves a series of interviews with different members of the engineering team, including software engineers, technical leads, managers, and sometimes even product managers or other team members.
+* These interviews can cover various topics, including system design, software architecture, coding, algorithms, and behavioral questions.
+* The purpose is to assess your technical abilities, problem-solving skills, communication, and how well you work in a team.
+
+---
+
+# Offer and Negotiation 🤑
+* If successful, they will extend an offer with details about compensation, benefits, and other relevant terms.
+* At this point, you may have the opportunity to negotiate the offer 
+
+---
+
+# Rejection 😭
+* Don't take it personal
+* It says more about the company than you
+* Keep putting yourself out there
+
+---
+
+# Focus on what you can control 🙌
+* Keep your resume updated and tailored to the job https://cv-boost.com
+* Work on coding problems at https://leetcode.com and https://exercism.org/
+* Practice interviewing https://shadowing.ai/
+* Keep building your portfolio and sharing it with your network, most job opportunities are never even posted and come from your network
+
+
+---
+
+# Thank you
+
+
