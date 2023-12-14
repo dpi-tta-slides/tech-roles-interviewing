@@ -96,8 +96,12 @@ _paginate: false
 
 ---
 
+![bg contain](./assets/t-shaped-skills.webp)
+
+---
+
 # Application Submission 📬
-- Submit your application through the company's application tracking system (ATS).
+- Submit your application through the company's applicant tracking system (ATS).
 - Some application tracking systems will screen out resumes that don't match the job description
 - I built https://cv-boost.com to help tailor your resume for the job you are applying for
 - Leverage your network to get around ATS
