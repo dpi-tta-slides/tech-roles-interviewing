@@ -11,22 +11,29 @@ _paginate: false
 
 ---
 
-# What are the most common apprentice roles so far?
+# Most common roles
 
-- Software Developer
+(so far)
+<!-- - Software Developer
 - Consultancy/Engagement
 - Data Scientist / Business Analyst
 - Project Manager
 - Sales
-- Customer Support
+- Customer Support -->
+
+![bg right](./assets/placements.png)
 
 ---
 
-![bg contain](./assets/placements.png)
+# Employer partners
 
----
+(so far)
+<!-- 
+- SAP
+- John Deere
+ -->
 
-![bg contain](./assets/partners.png)
+![bg right](./assets/partners.png)
 
 ---
 # Typical Roles on a Software Team
@@ -101,6 +108,8 @@ _paginate: false
 - Assess your basic qualifications, skills, and fit for the position.
 - You might have a phone interview with a recruiter or hiring manager
 - Use https://shadowing.ai/ to practice
+
+<!-- this could be a coffee or lunch (especially when from your network)  -->
 
 ---
 
