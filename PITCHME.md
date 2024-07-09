@@ -11,9 +11,9 @@ _paginate: false
 
 ---
 
-# Most common roles
+<!-- Most common roles (so far) -->
 
-(so far)
+
 <!-- - Software Developer
 - Consultancy/Engagement
 - Data Scientist / Business Analyst
@@ -21,19 +21,18 @@ _paginate: false
 - Sales
 - Customer Support -->
 
-![bg right](./assets/placements.png)
+![bg contain](./assets/placements.png)
 
 ---
 
-# Employer partners
+<!-- Employer partners (so far) -->
 
-(so far)
 <!-- 
 - SAP
 - John Deere
  -->
 
-![bg right](./assets/partners.png)
+![bg contain](./assets/partners.png)
 
 ---
 # Typical Roles on a Software Team
