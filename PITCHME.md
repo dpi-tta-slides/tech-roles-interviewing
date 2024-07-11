@@ -111,6 +111,7 @@ _paginate: false
 # Initial Screening 📞
 - Assess your basic qualifications, skills, and fit for the position.
 - You might have a phone interview with a recruiter or hiring manager
+- Research the company and write down questions beforehand
 - Use https://shadowing.ai/ to practice
 
 <!-- this could be a coffee or lunch (especially when from your network)  -->
