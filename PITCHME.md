@@ -126,7 +126,7 @@ _paginate: false
 > "Do you know anyone who ...? I'm looking for a role in ..."
 
 - Doesn't hurt to ask!
-- Expands your network
+- Expand your network
 
 ---
 
@@ -159,10 +159,10 @@ _paginate: false
 
 > "Is there anything else I can elaborate on to ensure I’m the best choice?"
 
-- open ended
-- address any lingering questions
-- double down on your unique strengths.
-- last impression is a *lasting* impression
+- Open ended
+- Address any lingering questions
+- Double down on your unique strengths.
+- Last impression is a *lasting* impression
 
 ---
 
