@@ -100,15 +100,17 @@ _paginate: false
 ---
 
 # Application Submission 📬
+
 - Submit your application through the company's applicant tracking system (ATS).
 - Some application tracking systems will screen out resumes that don't match the job description
-- I built https://cv-boost.com to help tailor your resume for the job you are applying for
 - Leverage your network to get around ATS
-- Include a cover letter
+- Include a resume + cover letter
+- 1 page resume focused on the role
 
 ---
 
 # Initial Screening 📞
+
 - Assess your basic qualifications, skills, and fit for the position.
 - You might have a phone interview with a recruiter or hiring manager
 - Research the company and write down questions beforehand
@@ -119,6 +121,7 @@ _paginate: false
 ---
 
 # Technical Interview 🧑‍💻
+
 - Solve coding exercises, technical challenges, or a small take-home project 
 - May have you pair up with an engineer to solve a coding problem, review a pull request or do a code review to assess how you think and communicate
 - Practice:
@@ -129,6 +132,7 @@ _paginate: false
 ---
 
 # On-Site/Remote Interviews 🎤
+
 - A series of interviews with different members of the team
 - These interviews can cover various topics
     - System Design
@@ -142,12 +146,14 @@ _paginate: false
 ---
 
 # Offer and Negotiation 🤑
+
 - If successful, they will extend an offer with details about compensation, benefits, and other relevant terms.
 - At this point, you may have the opportunity to negotiate the offer 
 
 ---
 
 # Rejection 😭
+
 - Don't take it personal
 - It says more about the company than you
 - Keep putting yourself out there
@@ -155,7 +161,8 @@ _paginate: false
 ---
 
 # Focus on what you can control 🙌
-- Keep your resume updated and tailored to the job https://cv-boost.com
+
+- Keep your resume updated and tailored to the job
 - Work on coding problems at https://leetcode.com and https://exercism.org/
 - Practice interviewing https://shadowing.ai/
 - Keep building your portfolio and share it with your network
