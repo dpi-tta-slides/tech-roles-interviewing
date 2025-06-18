@@ -105,7 +105,7 @@ _paginate: false
 
 # Define Your Goal
 
-- Select a Focus, What is your "Dream Job"?
+- Select a Focus, What is your "Dream Job"? Find a **REAL** job post.
 - State Your "Why"
 - Outline Your Learning Path
 - Set Measurable Milestones (Using SMART Goals)
