@@ -154,61 +154,62 @@ _paginate: false
 
 - You are also interviewing them!
 - Here are some good interview questions to ask at the end of the interview
+- Why do you think these are good questions to ask?
 
 ---
 
-> "Is there anything else I can elaborate on to ensure I’m the best choice?"
+> "Is there anything else I can elaborate on to ensure I'm the best choice?"
 
-- Open ended
+<!-- - Open ended
 - Address any lingering questions
 - Double down on your unique strengths.
-- Last impression is a *lasting* impression
+- Last impression is a *lasting* impression -->
 
 ---
 
 > "What doubts do you have about my qualifications for this role?"
 
-- Respond to any hesitations and remove roadblocks to an offer
-- Remind them of your past successes handling similar challenges
+<!-- - Respond to any hesitations and remove roadblocks to an offer -->
+<!-- - Remind them of your past successes handling similar challenges -->
 
 ---
 
-> "What are some of the skills and experiences you’re hoping the ideal candidate has, that we haven’t gotten a chance to talk about?"
+> "What are some of the skills and experiences you're hoping the ideal candidate has, that we haven't gotten a chance to talk about?"
 
-- Prompts them to call out must-have skills
-- May expose where you lack must-have skills
+<!-- - Prompts them to call out must-have skills -->
+<!-- - May expose where you lack must-have skills -->
 
 ---
 
 > "Can you describe a typical day in this role?"
 
-- Helps you understand the daily responsibilities and expectations of the position
+<!-- - Helps you understand the daily responsibilities and expectations of the position -->
 
 ---
 
 > "What key achievements would define success in the first 6-12 months?"
 
-- Will surface their current challenges and top priorities
-- Defines what success looks like in their eyes
+<!-- - Will surface their current challenges and top priorities -->
+<!-- - Defines what success looks like in their eyes -->
 
 ---
 
 > "How does this company handle internal promotions and career advancement?"
 
-- Growth potential is a major factor in job satisfaction and employee retention
+<!-- - Growth potential is a major factor in job satisfaction and employee retention -->
 
 ---
 
 > "What are the biggest challenges I would face in the first 3 to 6 months if hired?"
 
-- Shows you are thinking beyond just getting the job and are preparing for long-term success
+<!-- - Shows you are thinking beyond just getting the job and are preparing for long-term success -->
 
 ---
 
 > "What are some must-have soft skills you feel contribute most to success here?"
 
-- Every workplace has personality and behavior clues that unlock culture fit and influence performance
-- Mismatches signal poor culture leading to frustration and blocked growth in the future
+<!-- - Every workplace has personality and behavior clues that unlock culture fit and influence performance -->
+<!-- - Mismatches signal poor culture leading to frustration and blocked growth in the future -->
 
 ---
 
