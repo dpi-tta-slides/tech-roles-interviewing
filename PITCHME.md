@@ -37,79 +37,46 @@ _paginate: false
 
 # Typical Roles on a Software Team
 
-## Software Developer
-
-- Writes code to create software applications
-
-### Specialties
-
-- Frontend
-- Backend
-- Mobile
-- Integrations
-- and more...
-
----
-
-# Typical Roles on a Software Team
-
-## UI/UX Designer
-
-- Responsible for creating wireframes and prototypes, as well as helping to design the look and feel of your app.
-
-## Quality Assurance Engineer and Tester
-
-- Tests the software applications to ensure that they meet the requirements and are free from bugs
-
----
-
-# Typical Roles on a Software Team
-
-## Project Manager
-
-- Oversees the software development project from start to finish
-
-## Product Owner / Business Analyst
-
-- Defines the product vision and ensures that the software development team is building the right product
+- Software Developer <!-- Writes code to create software applications: Frontend, Backend, Mobile, Integrations, and more... -->
+- UI/UX Designer <!-- Responsible for creating wireframes and prototypes, as well as helping to design the look and feel of your app. -->
+- Quality Assurance Engineer and Tester <!-- Tests the software applications to ensure that they meet the requirements and are free from bugs -->
+- Project Manager <!-- Oversees the software development project from start to finish -->
+- Product Owner / Business Analyst <!-- Defines the product vision and ensures that the software development team is building the right product -->
 
 ---
 
 # Adjacent roles you might see
 
-## DevOps
-
-- Deploys, monitors, and maintains the software applications and infrastructure
-
-## Data Scientist
-
-- Analyzes and interprets data to gain insights that can be used to inform business decisions
+- DevOps <!-- Deploys, monitors, and maintains the software applications and infrastructure -->
+- Data Scientist <!-- Analyzes and interprets data to gain insights that can be used to inform business decisions -->
+- Sales <!-- Identifies potential customers, builds relationships with them, and sells the software product -->
+- Marketing <!-- Promotes the software product and builds brand awareness -->
+- Support <!-- Assists customers with their inquiries, technical issues, and concerns -->
 
 ---
 
-# Adjacent roles you might see
+<!-- # Find Your Focus -->
 
-## Sales
+<!-- - Problems You Like to Work On 😄 -->
 
-- Identifies potential customers, builds relationships with them, and sells the software product
+<!-- - What excites you? -->
+<!-- - What kinds of projects do you naturally gravitate toward? -->
 
-## Marketing
+<!-- - Problems People Pay to Solve 💵 -->
 
-- Promotes the software product and builds brand awareness
+<!-- What do companies hire people to do? -->
+<!-- What roles are growing or in demand? -->
 
-## Support
-
-- Assists customers with their inquiries, technical issues, and concerns
+![bg contain](./assets/find-your-focus-venn.jpg)
 
 ---
-
+<!-- TODO: add example -->
 # Define Your Goal
 
-- Select a Focus, What is your "Dream Job"? Find a **REAL** job post.
-- State Your "Why"
+- What is your "Dream Job"? Find a **REAL** job post.
+- Why this job?
 - Outline Your Learning Path
-- Set Measurable Milestones (Using SMART Goals)
-  - Specific, Measurable, Achievable, Relevant, Time-Bound
+- Set Measurable Milestones (Using SMART Goals) <!-- Specific, Measurable, Achievable, Relevant, Time-Bound -->
 - Draft Your Success Criteria
 - Potential Blockers & Overcoming Them
 
@@ -122,29 +89,28 @@ _paginate: false
 # Networking
 
 - Most jobs are never posted
-
+<!-- - Expand your network -->
 > "Do you know anyone who ...? I'm looking for a role in ..."
 
 - Doesn't hurt to ask!
-- Expand your network
 
 ---
 
-# Application Submission 📬
+# Application Submission
 
-- Submit your application through the company's applicant tracking system (ATS).
-- Some application tracking systems will screen out resumes that don't match the job description
+<!-- - Submit your application through the company's applicant tracking system (ATS). -->
+<!-- - Some application tracking systems will screen out resumes that don't match the job description -->
 - Connect with someone at the company *before* applying
 - Include a 1 page resume + cover letter <!-- Focus on the role -->
 
 ---
 
-# Initial Screening 📞
+# Initial Screening
 
-- Assess your basic qualifications, skills, and fit for the position.
-- You might have a phone interview with a recruiter or hiring manager
+<!-- - Assess your basic qualifications, skills, and fit for the position. -->
+- Typically a phone interview with a recruiter or hiring manager
 - Research the company and write down questions beforehand
-- Use <https://shadowing.ai/> to practice
+<!-- - Use <https://shadowing.ai/> to practice -->
 
 <!-- this could be a coffee or lunch (especially when from your network)  -->
 
@@ -153,7 +119,7 @@ _paginate: false
 # Ask Good Questions
 
 - You are also interviewing them!
-- Here are some good interview questions to ask at the end of the interview
+- Let's go through some good interview questions to ask at the end of the interview
 - Why do you think these are good questions to ask?
 
 ---
@@ -213,7 +179,7 @@ _paginate: false
 
 ---
 
-# Technical Interview 🧑‍💻
+# Technical Interview
 
 - Solve coding exercises, technical challenges, or a small take-home project
 - May have you pair up with an engineer to solve a coding problem, review a pull request or do a code review to assess how you think and communicate
@@ -224,28 +190,28 @@ _paginate: false
 <!-- Algorithms, Data structures, Architecture, Problem-solving -->
 ---
 
-# On-Site/Remote Interviews 🎤
+# On-Site Interviews
 
 - A series of interviews with different members of the team
-- These interviews can cover various topics
+<!-- - These interviews can cover various topics
   - System Design
   - Software Architecture
   - Coding
   - Algorithms
   - Behavior
-  - etc.
+  - etc. -->
 - The purpose is to assess your technical abilities, problem-solving skills, communication, and how well you work in a team.
 
 ---
 
-# Offer and Negotiation 🤑
+# Offer and Negotiation
 
 - If successful, they will extend an offer with details about compensation, benefits, and other relevant terms.
 - At this point, you may have the opportunity to negotiate the offer
 
 ---
 
-# Rejection 😭
+# Rejection
 
 - Don't take it personal
 - It says more about the company than you
@@ -253,7 +219,7 @@ _paginate: false
 
 ---
 
-# Focus on what you can control 🙌
+# Focus on what you can control
 
 - Keep your resume updated and tailored to the job
 - Work on coding problems at <https://leetcode.com> and <https://exercism.org/>
