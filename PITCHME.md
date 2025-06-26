@@ -70,8 +70,8 @@ _paginate: false
 ![bg contain](./assets/find-your-focus-venn.jpg)
 
 ---
-<!-- TODO: add example -->
-# Define Your Goal
+
+# [Homework: Define your learning goal](https://firstdraft.com/lessons/631-assignment-define-your-learning-goal)
 
 - What is your "Dream Job"? Find a **REAL** job post.
 - Why this job?
@@ -221,12 +221,13 @@ _paginate: false
 
 # Focus on what you can control
 
+- [Homework: Define your learning goal](https://firstdraft.com/lessons/631-assignment-define-your-learning-goal)
 - Keep your resume updated and tailored to the job
 - Work on coding problems at <https://leetcode.com> and <https://exercism.org/>
 - Practice interviewing <https://shadowing.ai/>
 - Ask Good Questions
 - Keep building your portfolio and share it with your network
-- Most job opportunities are never posted and come from your network
+<!-- Remember, most job opportunities are never posted and come from your network -->
 
 ---
 
